@@ -1,0 +1,14 @@
+# The requirements.txt file usually contains a list of dependencies required by the project.
+# Here is a sample content for the requirements.txt file based on the project description.
+
+numpy==1.21.2
+pandas==1.3.3
+awscli==1.20.9
+boto3==1.18.9
+AutoGPT==0.1.0
+gorilla==0.3.0
+e2b==0.1.0
+awesome-ai-agents==0.1.0
+llm-code-interpreter==0.1.0
+awesome-sdks-for-ai-agents==0.1.0
+e2b-cookbook==0.1.0
